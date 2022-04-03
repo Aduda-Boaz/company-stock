@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-You can see [the app live here]( https://aduda-boaz.github.io/company-stock/)
+You can see [the app live here](https://company-stock.herokuapp.com/)
 
 ## Setup
 
