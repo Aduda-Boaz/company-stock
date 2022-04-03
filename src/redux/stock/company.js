@@ -42,3 +42,4 @@ export const fetchData = (company) => async (dispatch) => {
 
   dispatch(fetchDataSuccess(info));
 };
+
